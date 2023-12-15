@@ -1,7 +1,7 @@
 
 A small example, converting spaces to tabs and vice versa. Dart command line program.
 
-=========================================================================================
+=====================================================================
 
 
 Syntax: detab [options] [file ...]
@@ -19,4 +19,4 @@ file                     File names or file name templates (wildcards * and ? al
                          in the current directory and all subdirectories.
                          If no files are found, the program will exit without error.
 
-=========================================================================================
+====================================================================
