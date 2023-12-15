@@ -1,4 +1,5 @@
-
+<pre>
+  
 A small example, converting spaces to tabs and vice versa. Dart command line program.
 
 =====================================================================
@@ -20,3 +21,4 @@ file                     File names or file name templates (wildcards * and ? al
                          If no files are found, the program will exit without error.
 
 ====================================================================
+</pre>
